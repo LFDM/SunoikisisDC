@@ -1,7 +1,5 @@
 # Latin sentences
 
-Copy and paste the Latin text, including punctuation, in the online editor in Perseids.
-
 ```
 Castra sunt in Italia contra populum Romanum in Etruriae faucibus conlocata.
 ```
