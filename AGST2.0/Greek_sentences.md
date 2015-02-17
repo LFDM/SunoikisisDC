@@ -1,7 +1,7 @@
 ```
 αὐτός, ὦ Φαίδων, παρεγένου Σωκράτει ἐκείνῃ τῇ ἡμέρᾳ ᾗ τὸ φάρμακον ἔπιεν ἐν τῷ δεσμωτηρίῳ, ἢ ἄλλου του ἤκουσας;
 ```
-'Were you with Socrates yourself, Phaedo, on the day when he drank the poison in prison, or did you hear about it from someone else?' (Pl. Phaedo 57a))
+'Were you with Socrates yourself, Phaedo, on the day when he drank the poison in prison, or did you hear about it from someone else?' (Pl. Phaedo 57a)
 
 ```
 ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου, ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι. 
