@@ -1,3 +1,5 @@
+## Greek sentences
+
 ```
 αὐτός, ὦ Φαίδων, παρεγένου Σωκράτει ἐκείνῃ τῇ ἡμέρᾳ ᾗ τὸ φάρμακον ἔπιεν ἐν τῷ δεσμωτηρίῳ, ἢ ἄλλου του ἤκουσας;
 ```
@@ -9,6 +11,6 @@
 'Now when Darius lay sick and suspected that the end of his life was near, he wished to have both his sons with him' (X. Anab 1.1.1)
 
 ```
-πολλάκις ἐθαύμασα τίσι ποτὲ λόγοις Ἀθηναίους ἔπεισαν οἱ γραψάμενοι Σωκράτην ὡς ἄξιος εἴη θανάτου τῇ πόλει.
+ἀγανακτοῦσα δὲ Γῆ ἐπὶ τῇ ἀπωλείᾳ τῶν εἰς Τάρταρον ῥιφέντων παίδων πείθει τοὺς Τιτᾶνας ἐπιθέσθαι τῷ πατρί, καὶ δίδωσιν ἀδαμαντίνην ἅρπην Κρόνῳ.
 ```
-'I have often wondered by what arguments those who drew up the indictment against Socrates could persuade the Athenians that his life was forfeit to the state' (X. Mem 1.1.1)
+'But Earth, grieved at the destruction of her children, who had been cast into Tartarus, persuaded the Titans to attack their father and gave Cronus an adamantine sickle.' (Apollod. 1.1.4)
