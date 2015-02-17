@@ -1,6 +1,6 @@
-== Links
+## Links
 
-=== Arethusa
+### Arethusa
 
 * [Interface Text for Localization](https://github.com/latin-language-toolkit/arethusa/tree/master/dist/i18n)
 
